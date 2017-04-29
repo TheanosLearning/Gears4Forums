@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 	"name": "Gears of War 4 Forums",
 	"short_name": "Gears4 Forums",
-	"version": "1.0",
-	"description": "Adds the forum link back into the main menu.",
+	"version": "1.0.1",
+	"description": "Adds the 'Forums' option back into the main menu.",
 	"icons": {
 		"48": "img/forums_tile48.png",
 		"128": "img/forums_tile128.png"
